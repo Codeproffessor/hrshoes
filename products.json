@@ -12,7 +12,7 @@
       "sys": { "id": "2" },
       "fields": {
         "title": "Oxford shoe",
-        "price": 12.99,
+        "price": 59.99,
         "image": { "fields": { "file": { "url": "images/product-2.jpg" } } }
       }
     },
@@ -20,7 +20,7 @@
       "sys": { "id": "3" },
       "fields": {
         "title": "Oxford shoe",
-        "price": 12.99,
+        "price": 59.99,
         "image": { "fields": { "file": { "url": "images/product-3.jpg" } } }
       }
     },
@@ -28,7 +28,7 @@
       "sys": { "id": "4" },
       "fields": {
         "title": "Oxford shoe",
-        "price": 22.99,
+        "price": 59.99,
         "image": { "fields": { "file": { "url": "images/product-4.jpg" } } }
       }
     },
@@ -36,7 +36,7 @@
       "sys": { "id": "5" },
       "fields": {
         "title": "Oxford shoe",
-        "price": 88.99,
+        "price": 59.99,
         "image": { "fields": { "file": { "url": "images/product-5.jpg" } } }
       }
     },
@@ -44,7 +44,7 @@
       "sys": { "id": "6" },
       "fields": {
         "title": "Oxford shoe",
-        "price": 32.99,
+        "price": 59.99,
         "image": { "fields": { "file": { "url": "images/product-6.jpg" } } }
       }
     },
@@ -60,7 +60,7 @@
       "sys": { "id": "8" },
       "fields": {
         "title": "Oxford shoe",
-        "price": 33.99,
+        "price": 59.99,
         "image": { "fields": { "file": { "url": "images/product-8.jpg" } } }
       }
     },
