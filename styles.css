@@ -266,6 +266,7 @@ body {
 }
 
 /* --------------- End of Cart ---------------- */
+
 hr {
   height: 10px;
   border: 0;
@@ -273,6 +274,7 @@ hr {
 }
 
 
+/* --------------- Footer ---------------- */
 .bar{
   position: sticky;
   top: 0;
